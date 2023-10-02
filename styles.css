@@ -1,0 +1,116 @@
+body{
+    background-color: gainsboro;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    text-decoration-line: underline;
+}
+
+.right{
+   float:right;
+    
+    
+}
+
+.titleheader{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    border-bottom: 10px solid;
+}
+
+.text-container{
+    width:1700px;
+    height:2000px;
+  padding: 100px;
+}
+
+
+.opener{
+    text-align: left;
+    text-wrap: wrap;
+    margin-bottom: 50px;
+    width: 45%;
+    display:inline-block;
+    margin-right:20px;
+}
+
+
+
+.details{
+    text-wrap: wrap;
+    height:200px;
+    width:700px;
+}
+.stuff{
+    float: right;
+}
+.stuff-two{
+    float: right;
+    padding-right: 100px;
+
+}
+
+
+.other{
+    width:450px;
+    height:500px;
+   margin-bottom: 50px;
+    display: inline-block;
+
+   
+}
+.another{
+    width:650px;
+    height:450px;
+}
+
+
+.hello{
+    height: 500px;
+    width: 500px;
+   
+    
+}
+
+.stuff-four{
+    display:inline;
+    
+
+    
+}
+.words{
+   
+    text-wrap: wrap;
+    width:350px;
+    text-align: center;
+    position: absolute;
+    left:800px;
+    top: 1730px;
+   
+}
+.goodbye{
+    height: 500px;
+    width: 500px;
+    float: right;
+}
+
+.other-words{
+    
+    text-wrap:wrap;
+padding-left:70px;
+}
+
+.stuffy{
+    margin-top: 50px;
+    border-bottom: 10px solid;
+    
+}
+h4{
+    float:right;
+    text-decoration-line: overline;
+}
