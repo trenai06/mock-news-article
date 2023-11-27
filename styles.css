@@ -11,12 +11,12 @@ body {
 }
 
 .main-container {
-  max-width: 1500px;
   display: flex;
   flex-direction: column;
   flex-shrink: 1;
   box-shadow: inset 0 0 490px black;
   padding: 50px;
+  height: fit-content;
 }
 
 .page-headers {
@@ -118,15 +118,9 @@ h1 {
   justify-content: space-between;
 }
 
-@media (min-width: 1000px) {
-  body {
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-  }
-}
 
-@media (max-width: 1800px) {
+
+@media (min-width: 1600px) {
   body {
     align-items: center;
   }
